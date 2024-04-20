@@ -1,7 +1,17 @@
+
+import React from "react"
+import { Routes,Route } from "react-router-dom"
+import ServicePage from "./service"
+import SlotBookingPage from "./form"
+
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
+<>
+<Routes>
+<Route path='/' element={<ServicePage></ServicePage>}></Route>
+<Route path='/slotbooking' element={<SlotBookingPage></SlotBookingPage>}></Route>
+
+</Routes>
+</>
+  );
 }

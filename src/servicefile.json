@@ -1,0 +1,52 @@
+[
+    {
+      "servicename": "Web Development",
+      "servicedesc": "We provide custom web development services tailored to your specific needs. From simple websites to complex web applications, our team delivers high-quality solutions that meet your requirements.",
+      "serviceImg": "https://picsum.photos/200/300"
+    },
+    {
+      "servicename": "Mobile App Development",
+      "servicedesc": "Our mobile app development services cover iOS, Android, and cross-platform applications. Whether you need a native app or a hybrid solution, we can turn your ideas into reality.",
+      "serviceImg": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "servicename": "Graphic Design",
+      "servicedesc": "Our graphic design team creates stunning visuals for your brand identity, marketing materials, and digital assets. We blend creativity with strategy to deliver designs that captivate your audience.",
+      "serviceImg": "https://picsum.photos/200/300?random=2"
+    },
+    {
+      "servicename": "Digital Marketing",
+      "servicedesc": "We offer comprehensive digital marketing services including SEO, PPC, social media marketing, email marketing, and more. Our goal is to drive traffic, increase engagement, and boost conversions for your business.",
+      "serviceImg": "https://picsum.photos/200/300?random=3"
+    },
+    {
+      "servicename": "Content Writing",
+      "servicedesc": "Our content writing services cover everything from website content and blog posts to articles and press releases. We create engaging, informative, and SEO-friendly content that resonates with your target audience.",
+      "serviceImg": "https://picsum.photos/200/300?random=4"
+    },
+    {
+      "servicename": "IT Consulting",
+      "servicedesc": "With our IT consulting services, we help businesses optimize their IT infrastructure, streamline processes, and implement technology solutions that drive growth and efficiency.",
+      "serviceImg": "https://picsum.photos/200/300?random=5"
+    },
+    {
+      "servicename": "Cloud Services",
+      "servicedesc": "Our cloud services enable businesses to leverage the power of cloud computing for storage, hosting, and application development. We provide scalable and secure solutions tailored to your needs.",
+      "serviceImg": "https://picsum.photos/200/300?random=6"
+    },
+    {
+      "servicename": "E-commerce Solutions",
+      "servicedesc": "We specialize in developing e-commerce solutions that drive sales and enhance the online shopping experience. Whether you need a custom-built platform or integration with existing systems, we've got you covered.",
+      "serviceImg": "https://picsum.photos/200/300?random=7"
+    },
+    {
+      "servicename": "Cybersecurity",
+      "servicedesc": "Protect your business from cyber threats with our cybersecurity services. From risk assessments and vulnerability scanning to incident response and compliance, we help you safeguard your data and assets.",
+      "serviceImg": "https://picsum.photos/200/300?random=8"
+    },
+    {
+      "servicename": "UI/UX Design",
+      "servicedesc": "Our UI/UX design services focus on creating intuitive and visually appealing interfaces that enhance user experience. We combine user research, wireframing, and prototyping to design interfaces that delight users and drive engagement.",
+      "serviceImg": "https://picsum.photos/200/300?random=9"
+    }
+]

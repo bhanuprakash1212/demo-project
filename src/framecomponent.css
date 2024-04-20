@@ -1,0 +1,15 @@
+@media only screen and (max-width: 768px) {
+    .popup-content {
+      width: 80% !important;
+      max-width: 90% !important; /* Optional: Set max-width for smaller devices */
+    }
+  }
+  @media only screen and (max-width: 564px) {
+    .popup-content {
+      width: 90% !important;
+      max-width: 90% !important; /* Optional: Set max-width for smaller devices */
+    }
+  }
+  .card_description::-webkit-scrollbar {
+    display: none;
+  }

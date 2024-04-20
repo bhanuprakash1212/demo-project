@@ -1,0 +1,66 @@
+.book-appointment {
+    position: absolute;
+    top: calc(50% - 11.5px);
+    left: calc(50% - 65.5px);
+    line-height: 23px;
+  }
+  .button-14,
+  .cutlery-75-1 {
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .button-14 {
+    width: 517px;
+    height: 46px;
+    border-radius: var(--br-9xs);
+    background-color: var(--color-mediumslateblue);
+    display: none;
+    max-width: 100%;
+  }
+  .cutlery-75-1 {
+    height: 16px;
+    width: 16px;
+  }
+  .cutlery-75-1-wrapper,
+  .slot-booking-page {
+    width: 196px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .slot-booking-page {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 84px 379px 221px 396px;
+    box-sizing: border-box;
+    gap: 59px;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    font-size: var(--font-size-mini);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  @media screen and (max-width: 950px) {
+    .slot-booking-page {
+      gap: 29px;
+      padding-left: 198px;
+      padding-right: 189px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .slot-booking-page {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }
+  
